@@ -27,7 +27,7 @@ body {
   -webkit-transition: 0.6s;
   transition: 0.6s;
 }
-MikiP85/split-i
+
 .box:hover .content {
   -webkit-transform: translateY(-230%);
           transform: translateY(-230%);
